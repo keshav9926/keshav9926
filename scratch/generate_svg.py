@@ -1,7 +1,7 @@
 import os
 import base64
 
-image_path = r"c:\Users\Keshav Kakani\Desktop\PROJECTS\github_profile\keshav9926\assets\sweet-boy.png"
+image_path = r"C:\Users\Keshav Kakani\.gemini\antigravity\brain\d1db295d-079c-4624-be93-a2ae002ead39\media__1785006498141.png"
 svg_path = r"c:\Users\Keshav Kakani\Desktop\PROJECTS\github_profile\keshav9926\assets\now-playing.svg"
 
 if not os.path.exists(image_path):
@@ -80,9 +80,9 @@ svg_content = f"""<svg xmlns="http://www.w3.org/2000/svg" width="600" height="15
 
   <!-- Track Details -->
   <!-- Track Title -->
-  <text x="256" y="76" class="track-title">Earrings</text>
+  <text x="256" y="76" class="track-title">do i clench my fists?</text>
   <!-- Track Artist -->
-  <text x="256" y="93" class="track-artist">Malcolm Todd</text>
+  <text x="256" y="93" class="track-artist">ridgeclub</text>
 
   <!-- Seek/Progress Bar -->
   <rect x="256" y="104" width="150" height="3" rx="1.5" fill="#a0a0a0" />
