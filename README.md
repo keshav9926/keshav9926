@@ -21,8 +21,5 @@ no i just want my github to be clean.
 - [chessmind](https://github.com/keshav9926/ChessMind) - C++ chess engine supporting FastAPI WebSockets & live analysis
 - [hybrid movie recommender](https://github.com/keshav9926/Hybrid-AI-movie-recommender-system) - multithreaded recommender system with actor/genre profiles
 
-sun is the same in a relative way but you're older, shorter of breath one day closer to death ~ TIME (pink floyd)
-( yess gotta update my readme and the song more importantly )
-
 
 <sub>connect with me on [linkedin](https://www.linkedin.com/in/keshav-kakani-987586282/) or via [email](mailto:kkakani160@gmail.com)</sub>
